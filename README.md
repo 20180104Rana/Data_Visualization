@@ -1,4 +1,4 @@
-#**Data Visualization**
+# Data Visualization
 
 ## Table of Content<br>
 1. <b>Scatter Plot</b>
